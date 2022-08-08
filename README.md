@@ -1,2 +1,2 @@
 # VolunterPembuatanWebsite
-Repository inidigunakan untuk pembuatan website
+Repository ini digunakan untuk pembuatan website
